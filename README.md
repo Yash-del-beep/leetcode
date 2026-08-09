@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-del-beep/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Yash-del-beep/leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Yash-del-beep/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Yash-del-beep/leetcode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Yash-del-beep/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yash-del-beep/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Yash-del-beep/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Yash-del-beep/leetcode/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
