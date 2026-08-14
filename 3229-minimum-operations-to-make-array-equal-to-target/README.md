@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target">3454. Minimum Operations to Make Array Equal to Target</a></h2><h3>Hard</h3><hr><p>You are given two positive integer arrays <code>nums</code> and <code>target</code>, of the same length.</p>
+<h2><a href="https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target">3229. Minimum Operations to Make Array Equal to Target</a></h2><h3>Hard</h3><hr><p>You are given two positive integer arrays <code>nums</code> and <code>target</code>, of the same length.</p>
 
 <p>In a single operation, you can select any subarray of <code>nums</code> and increment each element within that subarray by 1 or decrement each element within that subarray by 1.</p>
 
