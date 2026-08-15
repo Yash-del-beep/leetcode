@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0078-subsets](https://github.com/Yash-del-beep/leetcode/tree/master/0078-subsets) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yash-del-beep/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Yash-del-beep/leetcode/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
