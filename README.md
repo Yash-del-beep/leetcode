@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1873-calculate-special-bonus](https://github.com/Yash-del-beep/leetcode/tree/master/1873-calculate-special-bonus) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Yash-del-beep/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Math
 |  |
