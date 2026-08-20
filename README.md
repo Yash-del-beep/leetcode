@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Yash-del-beep/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Yash-del-beep/leetcode/tree/master/0258-add-digits) |
 | [3227-vowels-game-in-a-string](https://github.com/Yash-del-beep/leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Yash-del-beep/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Yash-del-beep/leetcode/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Yash-del-beep/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
