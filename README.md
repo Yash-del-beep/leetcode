@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-del-beep/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Yash-del-beep/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Yash-del-beep/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Yash-del-beep/leetcode/tree/master/0496-next-greater-element-i) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yash-del-beep/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -29,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Yash-del-beep/leetcode/tree/master/0169-majority-element) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yash-del-beep/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Yash-del-beep/leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Yash-del-beep/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Yash-del-beep/leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Yash-del-beep/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0048-rotate-image](https://github.com/Yash-del-beep/leetcode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Yash-del-beep/leetcode/tree/master/0078-subsets) |
+| [0169-majority-element](https://github.com/Yash-del-beep/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Yash-del-beep/leetcode/tree/master/0496-next-greater-element-i) |
 | [1929-concatenation-of-array](https://github.com/Yash-del-beep/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/Yash-del-beep/leetcode/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
@@ -114,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Yash-del-beep/leetcode/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yash-del-beep/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yash-del-beep/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
