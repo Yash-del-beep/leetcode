@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-del-beep/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/Yash-del-beep/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Yash-del-beep/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Yash-del-beep/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Yash-del-beep/leetcode/tree/master/0496-next-greater-element-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Yash-del-beep/leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Yash-del-beep/leetcode/tree/master/0141-linked-list-cycle) |
 | [0680-valid-palindrome-ii](https://github.com/Yash-del-beep/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Yash-del-beep/leetcode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Yash-del-beep/leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Yash-del-beep/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
