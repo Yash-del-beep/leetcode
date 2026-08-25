@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/drop-missing-data">2883. Drop Missing Data</a></h2><h3>Easy</h3><hr><pre>
+<h2><a href="https://leetcode.com/problems/drop-missing-data">3075. Drop Missing Data</a></h2><h3>Easy</h3><hr><pre>
 DataFrame students
 +-------------+--------+
 | Column Name | Type   |
