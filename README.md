@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Yash-del-beep/leetcode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/Yash-del-beep/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Yash-del-beep/leetcode/tree/master/0496-next-greater-element-i) |
+| [0877-stone-game](https://github.com/Yash-del-beep/leetcode/tree/master/0877-stone-game) |
 | [1929-concatenation-of-array](https://github.com/Yash-del-beep/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/Yash-del-beep/leetcode/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yash-del-beep/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Yash-del-beep/leetcode/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Yash-del-beep/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Yash-del-beep/leetcode/tree/master/0258-add-digits) |
+| [0877-stone-game](https://github.com/Yash-del-beep/leetcode/tree/master/0877-stone-game) |
 | [3227-vowels-game-in-a-string](https://github.com/Yash-del-beep/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yash-del-beep/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Backtracking
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Yash-del-beep/leetcode/tree/master/0877-stone-game) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/Yash-del-beep/leetcode/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 ## Brainteaser
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Yash-del-beep/leetcode/tree/master/0877-stone-game) |
 | [3227-vowels-game-in-a-string](https://github.com/Yash-del-beep/leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Matrix
 |  |
@@ -136,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yash-del-beep/leetcode/tree/master/0141-linked-list-cycle) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Yash-del-beep/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Yash-del-beep/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
