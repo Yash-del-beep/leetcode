@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Yash-del-beep/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Yash-del-beep/leetcode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Yash-del-beep/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/Yash-del-beep/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yash-del-beep/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3227-vowels-game-in-a-string](https://github.com/Yash-del-beep/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Yash-del-beep/leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Yash-del-beep/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Yash-del-beep/leetcode/tree/master/0141-linked-list-cycle) |
 | [0680-valid-palindrome-ii](https://github.com/Yash-del-beep/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/Yash-del-beep/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
