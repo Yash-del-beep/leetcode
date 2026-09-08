@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Yash-del-beep/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0877-stone-game](https://github.com/Yash-del-beep/leetcode/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/Yash-del-beep/leetcode/tree/master/2235-add-two-integers) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Yash-del-beep/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3227-vowels-game-in-a-string](https://github.com/Yash-del-beep/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yash-del-beep/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Yash-del-beep/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Yash-del-beep/leetcode/tree/master/0052-n-queens-ii) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Yash-del-beep/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
