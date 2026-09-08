@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Yash-del-beep/leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0052-n-queens-ii](https://github.com/Yash-del-beep/leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Yash-del-beep/leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Yash-del-beep/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Yash-del-beep/leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
