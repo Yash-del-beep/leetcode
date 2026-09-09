@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/Yash-del-beep/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yash-del-beep/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Yash-del-beep/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Yash-del-beep/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
