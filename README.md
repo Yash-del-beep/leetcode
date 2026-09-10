@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yash-del-beep/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash-del-beep/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Yash-del-beep/leetcode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Yash-del-beep/leetcode/tree/master/0174-dungeon-game) |
 | [0274-h-index](https://github.com/Yash-del-beep/leetcode/tree/main/0274-h-index/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Yash-del-beep/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Yash-del-beep/leetcode/tree/master/0496-next-greater-element-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/Yash-del-beep/leetcode/tree/master/0174-dungeon-game) |
 | [0368-largest-divisible-subset](https://github.com/Yash-del-beep/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0877-stone-game](https://github.com/Yash-del-beep/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Yash-del-beep/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Yash-del-beep/leetcode/tree/master/0048-rotate-image) |
+| [0174-dungeon-game](https://github.com/Yash-del-beep/leetcode/tree/master/0174-dungeon-game) |
 ## Divide and Conquer
 |  |
 | ------- |
