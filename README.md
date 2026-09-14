@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Yash-del-beep/leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Yash-del-beep/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Yash-del-beep/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Yash-del-beep/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Yash-del-beep/leetcode/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/Yash-del-beep/leetcode/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Yash-del-beep/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Yash-del-beep/leetcode/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Yash-del-beep/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Enumeration
 |  |
