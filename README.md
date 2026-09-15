@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Yash-del-beep/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Yash-del-beep/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Yash-del-beep/leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Yash-del-beep/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0342-power-of-four](https://github.com/Yash-del-beep/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Yash-del-beep/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Yash-del-beep/leetcode/tree/master/0836-rectangle-overlap) |
