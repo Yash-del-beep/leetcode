@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Yash-del-beep/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Yash-del-beep/leetcode/tree/main/0274-h-index/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Yash-del-beep/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Yash-del-beep/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Yash-del-beep/leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Yash-del-beep/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Yash-del-beep/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Yash-del-beep/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1929-concatenation-of-array](https://github.com/Yash-del-beep/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/Yash-del-beep/leetcode/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yash-del-beep/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Yash-del-beep/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/Yash-del-beep/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Yash-del-beep/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Yash-del-beep/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/Yash-del-beep/leetcode/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 ## Brainteaser
 |  |
