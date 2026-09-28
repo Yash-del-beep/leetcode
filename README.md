@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Yash-del-beep/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Yash-del-beep/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Yash-del-beep/leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Yash-del-beep/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Yash-del-beep/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Yash-del-beep/leetcode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yash-del-beep/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Yash-del-beep/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0052-n-queens-ii](https://github.com/Yash-del-beep/leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Yash-del-beep/leetcode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Yash-del-beep/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Yash-del-beep/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0072-edit-distance](https://github.com/Yash-del-beep/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Yash-del-beep/leetcode/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/Yash-del-beep/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0174-dungeon-game](https://github.com/Yash-del-beep/leetcode/tree/master/0174-dungeon-game) |
 | [0368-largest-divisible-subset](https://github.com/Yash-del-beep/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Yash-del-beep/leetcode/tree/master/0516-longest-palindromic-subsequence) |
