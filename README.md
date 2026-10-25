@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Yash-del-beep/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Yash-del-beep/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1873-calculate-special-bonus](https://github.com/Yash-del-beep/leetcode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/Yash-del-beep/leetcode/tree/main/1890-the-latest-login-in-2020/) | Easy |
