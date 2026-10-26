@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Yash-del-beep/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0126-word-ladder-ii](https://github.com/Yash-del-beep/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0994-rotting-oranges](https://github.com/Yash-del-beep/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Bidirectional Search
@@ -279,4 +280,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Yash-del-beep/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Yash-del-beep/leetcode/tree/main/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Yash-del-beep/leetcode/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Yash-del-beep/leetcode/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
