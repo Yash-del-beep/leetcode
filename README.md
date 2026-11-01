@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Yash-del-beep/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Yash-del-beep/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Yash-del-beep/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/Yash-del-beep/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Yash-del-beep/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Yash-del-beep/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Yash-del-beep/leetcode/tree/master/0258-add-digits) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Yash-del-beep/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/Yash-del-beep/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Yash-del-beep/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Yash-del-beep/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Yash-del-beep/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Yash-del-beep/leetcode/tree/main/0100-same-tree/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Yash-del-beep/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
