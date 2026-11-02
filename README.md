@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Yash-del-beep/leetcode/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/Yash-del-beep/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Yash-del-beep/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Yash-del-beep/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Yash-del-beep/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yash-del-beep/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Yash-del-beep/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Yash-del-beep/leetcode/tree/main/0190-reverse-bits/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
