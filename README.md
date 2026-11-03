@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-del-beep/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Yash-del-beep/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0038-count-and-say](https://github.com/Yash-del-beep/leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0072-edit-distance](https://github.com/Yash-del-beep/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Yash-del-beep/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Yash-del-beep/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
