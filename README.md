@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Yash-del-beep/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/Yash-del-beep/leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0072-edit-distance](https://github.com/Yash-del-beep/leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0087-scramble-string](https://github.com/Yash-del-beep/leetcode/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/Yash-del-beep/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Yash-del-beep/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Yash-del-beep/leetcode/tree/master/0125-valid-palindrome) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Yash-del-beep/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Yash-del-beep/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Yash-del-beep/leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0087-scramble-string](https://github.com/Yash-del-beep/leetcode/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/Yash-del-beep/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Yash-del-beep/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Yash-del-beep/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
