@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Yash-del-beep/leetcode/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/Yash-del-beep/leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/Yash-del-beep/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Yash-del-beep/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Yash-del-beep/leetcode/tree/master/0627-swap-sex-of-employees) |
