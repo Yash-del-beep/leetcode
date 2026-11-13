@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Yash-del-beep/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Yash-del-beep/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/Yash-del-beep/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Yash-del-beep/leetcode/tree/main/0062-unique-paths/) | Medium |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Yash-del-beep/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Yash-del-beep/leetcode/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Yash-del-beep/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0231-power-of-two](https://github.com/Yash-del-beep/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Yash-del-beep/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yash-del-beep/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
