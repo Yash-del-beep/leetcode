@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Yash-del-beep/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Yash-del-beep/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Yash-del-beep/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/Yash-del-beep/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Yash-del-beep/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Yash-del-beep/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Yash-del-beep/leetcode/tree/master/0231-power-of-two) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yash-del-beep/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Yash-del-beep/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yash-del-beep/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash-del-beep/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Recursion
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Yash-del-beep/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Yash-del-beep/leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
