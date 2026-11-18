@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-del-beep/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Yash-del-beep/leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/Yash-del-beep/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/Yash-del-beep/leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0072-edit-distance](https://github.com/Yash-del-beep/leetcode/tree/main/0072-edit-distance/) | Medium |
