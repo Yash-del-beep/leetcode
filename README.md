@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Yash-del-beep/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yash-del-beep/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Yash-del-beep/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Yash-del-beep/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0048-rotate-image](https://github.com/Yash-del-beep/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Yash-del-beep/leetcode/tree/main/0054-spiral-matrix/) | Medium |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yash-del-beep/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Yash-del-beep/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Yash-del-beep/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yash-del-beep/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash-del-beep/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
