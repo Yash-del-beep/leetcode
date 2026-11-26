@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Yash-del-beep/leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Yash-del-beep/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3227-vowels-game-in-a-string](https://github.com/Yash-del-beep/leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3360-stone-removal-game](https://github.com/Yash-del-beep/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yash-del-beep/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yash-del-beep/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Yash-del-beep/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Yash-del-beep/leetcode/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Yash-del-beep/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Yash-del-beep/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3360-stone-removal-game](https://github.com/Yash-del-beep/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Yash-del-beep/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
